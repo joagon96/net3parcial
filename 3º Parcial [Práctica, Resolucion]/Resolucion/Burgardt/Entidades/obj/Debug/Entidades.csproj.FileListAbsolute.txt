@@ -1,0 +1,5 @@
+C:\Users\Burgardt\Google Drive\Facultad\3º Año\NET\Labs [Resueltas, GitHub]\Labs Resueltas [ACTUALIZADO]\Unidad 5\Lab 4\Burgardt\Entidades\bin\Debug\Entidades.dll
+C:\Users\Burgardt\Google Drive\Facultad\3º Año\NET\Labs [Resueltas, GitHub]\Labs Resueltas [ACTUALIZADO]\Unidad 5\Lab 4\Burgardt\Entidades\bin\Debug\Entidades.pdb
+C:\Users\Burgardt\Google Drive\Facultad\3º Año\NET\Labs [Resueltas, GitHub]\Labs Resueltas [ACTUALIZADO]\Unidad 5\Lab 4\Burgardt\Entidades\obj\Debug\Entidades.csprojResolveAssemblyReference.cache
+C:\Users\Burgardt\Google Drive\Facultad\3º Año\NET\Labs [Resueltas, GitHub]\Labs Resueltas [ACTUALIZADO]\Unidad 5\Lab 4\Burgardt\Entidades\obj\Debug\Entidades.dll
+C:\Users\Burgardt\Google Drive\Facultad\3º Año\NET\Labs [Resueltas, GitHub]\Labs Resueltas [ACTUALIZADO]\Unidad 5\Lab 4\Burgardt\Entidades\obj\Debug\Entidades.pdb

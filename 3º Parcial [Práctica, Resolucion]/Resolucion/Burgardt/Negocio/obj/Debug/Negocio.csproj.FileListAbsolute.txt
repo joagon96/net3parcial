@@ -1,0 +1,7 @@
+C:\Users\Burgardt\Google Drive\Facultad\3º Año\NET\Labs [Resueltas, GitHub]\Labs Resueltas [ACTUALIZADO]\Unidad 5\Lab 4\Burgardt\Negocio\bin\Debug\Negocio.dll
+C:\Users\Burgardt\Google Drive\Facultad\3º Año\NET\Labs [Resueltas, GitHub]\Labs Resueltas [ACTUALIZADO]\Unidad 5\Lab 4\Burgardt\Negocio\bin\Debug\Negocio.pdb
+C:\Users\Burgardt\Google Drive\Facultad\3º Año\NET\Labs [Resueltas, GitHub]\Labs Resueltas [ACTUALIZADO]\Unidad 5\Lab 4\Burgardt\Negocio\bin\Debug\Entidades.dll
+C:\Users\Burgardt\Google Drive\Facultad\3º Año\NET\Labs [Resueltas, GitHub]\Labs Resueltas [ACTUALIZADO]\Unidad 5\Lab 4\Burgardt\Negocio\bin\Debug\Entidades.pdb
+C:\Users\Burgardt\Google Drive\Facultad\3º Año\NET\Labs [Resueltas, GitHub]\Labs Resueltas [ACTUALIZADO]\Unidad 5\Lab 4\Burgardt\Negocio\obj\Debug\Negocio.csprojResolveAssemblyReference.cache
+C:\Users\Burgardt\Google Drive\Facultad\3º Año\NET\Labs [Resueltas, GitHub]\Labs Resueltas [ACTUALIZADO]\Unidad 5\Lab 4\Burgardt\Negocio\obj\Debug\Negocio.dll
+C:\Users\Burgardt\Google Drive\Facultad\3º Año\NET\Labs [Resueltas, GitHub]\Labs Resueltas [ACTUALIZADO]\Unidad 5\Lab 4\Burgardt\Negocio\obj\Debug\Negocio.pdb

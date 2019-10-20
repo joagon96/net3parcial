@@ -1,0 +1,14 @@
+C:\Users\Burgardt\Google Drive\Facultad\3º Año\NET\Labs [Resueltas, GitHub]\Labs Resueltas [ACTUALIZADO]\Unidad 5\Lab 4\Burgardt\Escritorio\bin\Debug\Escritorio.exe.config
+C:\Users\Burgardt\Google Drive\Facultad\3º Año\NET\Labs [Resueltas, GitHub]\Labs Resueltas [ACTUALIZADO]\Unidad 5\Lab 4\Burgardt\Escritorio\bin\Debug\Escritorio.exe
+C:\Users\Burgardt\Google Drive\Facultad\3º Año\NET\Labs [Resueltas, GitHub]\Labs Resueltas [ACTUALIZADO]\Unidad 5\Lab 4\Burgardt\Escritorio\bin\Debug\Escritorio.pdb
+C:\Users\Burgardt\Google Drive\Facultad\3º Año\NET\Labs [Resueltas, GitHub]\Labs Resueltas [ACTUALIZADO]\Unidad 5\Lab 4\Burgardt\Escritorio\obj\Debug\Escritorio.csprojResolveAssemblyReference.cache
+C:\Users\Burgardt\Google Drive\Facultad\3º Año\NET\Labs [Resueltas, GitHub]\Labs Resueltas [ACTUALIZADO]\Unidad 5\Lab 4\Burgardt\Escritorio\obj\Debug\Escritorio.AlumnoLista.resources
+C:\Users\Burgardt\Google Drive\Facultad\3º Año\NET\Labs [Resueltas, GitHub]\Labs Resueltas [ACTUALIZADO]\Unidad 5\Lab 4\Burgardt\Escritorio\obj\Debug\Escritorio.Principal.resources
+C:\Users\Burgardt\Google Drive\Facultad\3º Año\NET\Labs [Resueltas, GitHub]\Labs Resueltas [ACTUALIZADO]\Unidad 5\Lab 4\Burgardt\Escritorio\obj\Debug\Escritorio.Properties.Resources.resources
+C:\Users\Burgardt\Google Drive\Facultad\3º Año\NET\Labs [Resueltas, GitHub]\Labs Resueltas [ACTUALIZADO]\Unidad 5\Lab 4\Burgardt\Escritorio\obj\Debug\Escritorio.csproj.GenerateResource.Cache
+C:\Users\Burgardt\Google Drive\Facultad\3º Año\NET\Labs [Resueltas, GitHub]\Labs Resueltas [ACTUALIZADO]\Unidad 5\Lab 4\Burgardt\Escritorio\obj\Debug\Escritorio.exe
+C:\Users\Burgardt\Google Drive\Facultad\3º Año\NET\Labs [Resueltas, GitHub]\Labs Resueltas [ACTUALIZADO]\Unidad 5\Lab 4\Burgardt\Escritorio\obj\Debug\Escritorio.pdb
+C:\Users\Burgardt\Google Drive\Facultad\3º Año\NET\Labs [Resueltas, GitHub]\Labs Resueltas [ACTUALIZADO]\Unidad 5\Lab 4\Burgardt\Escritorio\bin\Debug\Negocio.dll
+C:\Users\Burgardt\Google Drive\Facultad\3º Año\NET\Labs [Resueltas, GitHub]\Labs Resueltas [ACTUALIZADO]\Unidad 5\Lab 4\Burgardt\Escritorio\bin\Debug\Entidades.dll
+C:\Users\Burgardt\Google Drive\Facultad\3º Año\NET\Labs [Resueltas, GitHub]\Labs Resueltas [ACTUALIZADO]\Unidad 5\Lab 4\Burgardt\Escritorio\bin\Debug\Negocio.pdb
+C:\Users\Burgardt\Google Drive\Facultad\3º Año\NET\Labs [Resueltas, GitHub]\Labs Resueltas [ACTUALIZADO]\Unidad 5\Lab 4\Burgardt\Escritorio\bin\Debug\Entidades.pdb
